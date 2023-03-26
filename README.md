@@ -2,7 +2,7 @@
 
 This is the code for NFL Player Contact Detection using ResNet50, MLP and CNN. This model has been trained and tested with [1st and Future - Player Contact Detection](https://www.kaggle.com/competitions/nfl-player-contact-detection/overview)
 
-Code Written by,
+Code Written by:
 
 1. A Abinaya Sri
 2. Ananya Dikshit
